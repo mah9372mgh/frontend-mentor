@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', serif;
+}
+
 .container {
     background-color: #bddbff;
     display: flex;
@@ -44,4 +51,5 @@
     font-size: .9rem;
     color: #707070;
     text-align: center;
+    margin-top: 12px;
 }
